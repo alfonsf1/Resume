@@ -4,15 +4,15 @@ Alfonso Figueroa
 
 -------------------     ----------------------------
 258 S. Archer St.       Figueroa.a@csu.fullerton.edu  
-Anaheim CA 92804         https://github.com/alfonsf1  
-United States                           714-300-5778  
+Anaheim CA 92804.        https://github.com/alfonsf1  
+United States.                          714-300-5778  
 -------------------     ----------------------------
 
 Education
 ---------
 
-2016-Present (expected)  
-:   **BS, Computer Science**; California State University, Fullerton
+2016-Present (expected):    
+**BS, Computer Science**; California State University, Fullerton
 
 
 Experience
@@ -55,7 +55,7 @@ members.
   the html and pdf versions.
 
 2009-2013  
-**Knott's Berry Farm** 
+**Knott's Berry Farm:**  
 **Park Foods Supervisor**  
 
 Also with a short description.
