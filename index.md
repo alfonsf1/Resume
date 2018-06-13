@@ -3,9 +3,9 @@ Alfonso Figueroa
 ============
 
 -------------------     ----------------------------
-258 S. Archer St.       Figueroa.a@csu.fullerton.edu  
+<pre>258 S. Archer St.  Figueroa.a@csu.fullerton.edu  
 Anaheim CA 92804         https://github.com/alfonsf1  
-United States                          714-300-5778  
+United States                           714-300-5778 <pre> 
 -------------------     ----------------------------
 
 Education
