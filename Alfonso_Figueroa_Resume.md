@@ -11,14 +11,15 @@ United States                           714-300-5778
 Education
 ---------
 
-2016-Present (expected)
+2016-Present (expected)  
 :   **BS, Computer Science**; California State University, Fullerton
 
 
 Experience
 ----------
 
-**University of California, Irvine Medical Center:**
+2013-Present  
+**University of California, Irvine Medical Center:**  
 **Principle Admitting Worker**
 
 Short text containing the type of work done, results obtained,
@@ -53,7 +54,9 @@ members.
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**Knott's Berry Farm**
+2009-2013  
+**Knott's Berry Farm** 
+**Park Foods Supervisor**  
 
 Also with a short description.
 
