@@ -17,7 +17,7 @@ Education
 Experience
 ----------
 
-**University of California, Irvine Medical Center:**2013-Present  
+**University of California, Irvine Medical Center:** 2013-Present  
 **Principle Admitting Worker**
 
 * Performed reception functions to ensure smooth office operations, including answering phones and answering any questions that patients have in a high-volume clinic. 
@@ -53,6 +53,7 @@ Programming Languages: **C++:**
 	  * Graphs (DFS) [link](https://github.com/alfonsf1/gameCollection-graphDFS)  
 	  * Maps/BST [link](https://github.com/alfonsf1/universalProductCode-mapBST)  
 * Basic knowledge of **C**, **Visual Basic**, **Java**  
+  
 Skills  
 --------------------
 
