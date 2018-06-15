@@ -57,11 +57,11 @@ Open Source
 
 Programming Languages: **C++:**  
 * Object Oriented Programming
-* Data Structures
-	  * Array/Vector [link](https://github.com/alfonsf1/gradeListRoseter-Array)
-	  * Linked List [link](https://github.com/alfonsf1/packageTracking-Linked-List)
-	  * Graphs (DFS) [link](https://github.com/alfonsf1/gameCollection-graphDFS)
-	  * Maps/BST [link](https://github.com/alfonsf1/universalProductCode-mapBST)
+* Data Structures  
+	  * Array/Vector [link](https://github.com/alfonsf1/gradeListRoseter-Array)  
+	  * Linked List [link](https://github.com/alfonsf1/packageTracking-Linked-List)  
+	  * Graphs (DFS) [link](https://github.com/alfonsf1/gameCollection-graphDFS)  
+	  * Maps/BST [link](https://github.com/alfonsf1/universalProductCode-mapBST)  
 
 :   Basic knowledge of **C**, **Visual Basic**, **Java**
 Extra Section, Call it Whatever You Want
