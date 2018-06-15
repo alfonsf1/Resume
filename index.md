@@ -14,7 +14,6 @@ Education
 2016-Present (expected):    
 **BS, Computer Science**; California State University, Fullerton
 
-
 Experience
 ----------
 
@@ -45,15 +44,8 @@ Experience
 * Performed general clerical tasks including scheduling meetings with employees, creating spreadsheets, documents, and mailing.
 * Handled delicate situations, such as terminating employees, lost and theft prevention.
 
-
 Technical Experience
 --------------------
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
 Programming Languages: **C++:**  
 * Object Oriented Programming
@@ -63,15 +55,12 @@ Programming Languages: **C++:**
 	  * Graphs (DFS) [link](https://github.com/alfonsf1/gameCollection-graphDFS)  
 	  * Maps/BST [link](https://github.com/alfonsf1/universalProductCode-mapBST)  
 
-:   Basic knowledge of **C**, **Visual Basic**, **Java**
-Extra Section, Call it Whatever You Want
+:   Basic knowledge of **C**, **Visual Basic**, **Java**  
+Skills  
 ----------------------------------------
 
 * Human Languages:
-
-     * English (native speaker)
-     * Spanish
-     
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     * English (Verbal and written)  
+     * Spanish (Verbal and written)  
+* Interpersonal communication skills  
+* Superb customer service (Known to build lasting relations with customers)
