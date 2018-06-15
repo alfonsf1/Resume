@@ -17,8 +17,7 @@ Education
 Experience
 ----------
 
-2013-Present  
-**University of California, Irvine Medical Center:**  
+**University of California, Irvine Medical Center:**2013-Present  
 **Principle Admitting Worker**
 
 * Performed reception functions to ensure smooth office operations, including answering phones and answering any questions that patients have in a high-volume clinic. 
@@ -32,8 +31,7 @@ Experience
 * Familiar with PPO, HMO, Workers Comp, Military, and other Government insurances. 
 * Knowledge of referrals, submitting authorizations, and communicating with adjusters. 
 
-2009-2013  
-**Knott's Berry Farm:**  
+**Knott's Berry Farm:** 2009-2013    
 **Park Foods Supervisor**  
 
 * Liaison between Area Management and Team Leaders.
@@ -54,10 +52,9 @@ Programming Languages: **C++:**
 	  * Linked List [link](https://github.com/alfonsf1/packageTracking-Linked-List)  
 	  * Graphs (DFS) [link](https://github.com/alfonsf1/gameCollection-graphDFS)  
 	  * Maps/BST [link](https://github.com/alfonsf1/universalProductCode-mapBST)  
-
-:   Basic knowledge of **C**, **Visual Basic**, **Java**  
+* Basic knowledge of **C**, **Visual Basic**, **Java**  
 Skills  
-----------------------------------------
+--------------------
 
 * Human Languages:
      * English (Verbal and written)  
