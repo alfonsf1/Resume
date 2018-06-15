@@ -16,13 +16,10 @@ Experience
 **University of California, Irvine Medical Center:** 2013-Present  
 **Principal Admitting Worker**
 * Performed reception functions to ensure smooth office operations, including answering phones and answering any questions that patients have in a high-volume clinic. 
-* Helped colleagues troubleshoot with computer issues as an EPIC Super User. 
+* Helped colleagues troubleshoot computer issues as an EPIC Super User. 
 * Provided excellent customer service to patients in order to make them feel welcomed.
-* Scheduled, rescheduled, cancelled, and/or confirmed patient appointments in a timely manner using the Quest and EPIC applications.
-* Responded in a timely manner to secure health messages sent from either patients or staff members. 
-* Accurately prepared budgets for office supplies.
+* Scheduled, rescheduled, cancelled, and/or confirmed patient appointments in a timely manner using the Quest and EPIC applications. 
 * Accepted and processed payments according to established guidelines.
-* Verified medical coverage and determined if patient was eligible for the visit
 * Familiar with PPO, HMO, Workers Comp, Military, and other Government insurances. 
 * Knowledge of referrals, submitting authorizations, and communicating with adjusters. 
 
@@ -34,7 +31,6 @@ Experience
 * Responsible for inventory count and ordering supplies off AS400 computer system. 
 * Accountable for scheduling guest service associates and team leaders accordingly to labor budgets. 
 * Performed general clerical tasks including scheduling meetings with employees, creating spreadsheets, documents, and mailing.
-* Handled delicate situations, such as terminating employees, lost and theft prevention.
 
 Technical Experience
 --------------------
@@ -47,10 +43,6 @@ Programming Languages: **C++:**
 	  * Maps/BST [link](https://github.com/alfonsf1/universalProductCode-mapBST)  
 * Basic knowledge of **C**, **Visual Basic**, **Java**  
   
-Skills  
+References  
 --------------------
-* Human Languages:
-     * English (Verbal and written)  
-     * Spanish (Verbal and written)  
-* Interpersonal communication skills  
-* Superb customer service (Known to build lasting relations with customers)
+* Available upon request
