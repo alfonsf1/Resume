@@ -1,25 +1,20 @@
 
 Alfonso Figueroa
 ============
-
 -------------------     ----------------------------  
 258 S. Archer St.       Figueroa.a@csu.fullerton.edu  
 Anaheim CA 92804         https://github.com/alfonsf1  
 United States                           714-300-5778  
 -------------------     ----------------------------  
-
 Education
----------
-
+---------  
 2016-Present (expected):    
-**BS, Computer Science**; California State University, Fullerton
+**BS, Computer Science**; California State University, Fullerton  
 
 Experience
 ----------
-
 **University of California, Irvine Medical Center:** 2013-Present  
 **Principle Admitting Worker**
-
 * Performed reception functions to ensure smooth office operations, including answering phones and answering any questions that patients have in a high-volume clinic. 
 * Helped colleagues troubleshoot with computer issues as an EPIC Super User. 
 * Provided excellent customer service to patients in order to make them feel welcomed.
@@ -33,7 +28,6 @@ Experience
 
 **Knott's Berry Farm:** 2009-2013    
 **Park Foods Supervisor**  
-
 * Liaison between Area Management and Team Leaders.
 * Responsible for area operations including meal service, cash handling, and billing.
 * Enforced park operating policies, procedures, and regulations.
@@ -44,7 +38,6 @@ Experience
 
 Technical Experience
 --------------------
-
 Programming Languages: **C++:**  
 * Object Oriented Programming
 * Data Structures  
@@ -56,7 +49,6 @@ Programming Languages: **C++:**
   
 Skills  
 --------------------
-
 * Human Languages:
      * English (Verbal and written)  
      * Spanish (Verbal and written)  
