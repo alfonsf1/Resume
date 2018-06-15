@@ -4,33 +4,33 @@
  
 > 258 S. Archer St. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Figueroa.a@csu.fullerton.edu  
 > Anaheim CA 92804 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://github.com/alfonsf1  
-> United States &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 714-300-5778  
- 
-Education
----------  
-2016-Present (expected):    
-**BS, Computer Science**; California State University, Fullerton  
+> United States &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 714-300-5778   
 
 Experience
 ----------
 **University of California, Irvine Medical Center:** 2013-Present  
-**Principal Admitting Worker**
-* Performed reception functions to ensure smooth office operations, including answering phones and answering any questions that patients have in a high-volume clinic. 
-* Helped colleagues troubleshoot computer issues as an EPIC Super User. 
-* Provided excellent customer service to patients in order to make them feel welcomed.
-* Scheduled, rescheduled, cancelled, and/or confirmed patient appointments in a timely manner using the Quest and EPIC applications. 
-* Accepted and processed payments according to established guidelines.
-* Familiar with PPO, HMO, Workers Comp, Military, and other Government insurances. 
-* Knowledge of referrals, submitting authorizations, and communicating with adjusters. 
+**Principal Admitting Worker**  
+-Performed reception functions to ensure smooth office operations, including answering phones and answering any questions that patients have in a high-volume clinic. 
+-Helped colleagues troubleshoot computer issues as an EPIC Super User. 
+-Provided excellent customer service to patients in order to make them feel welcomed.
+-Scheduled, rescheduled, cancelled, and/or confirmed patient appointments in a timely manner using the Quest and EPIC applications. 
+-Accepted and processed payments according to established guidelines.
+-Familiar with PPO, HMO, Workers Comp, Military, and other Government insurances. 
+-Knowledge of referrals, submitting authorizations, and communicating with adjusters. 
 
 **Knott's Berry Farm:** 2009-2013    
 **Park Foods Supervisor**  
-* Liaison between Area Management and Team Leaders.
-* Responsible for area operations including meal service, cash handling, and billing.
-* Enforced park operating policies, procedures, and regulations.
-* Responsible for inventory count and ordering supplies off AS400 computer system. 
-* Accountable for scheduling guest service associates and team leaders accordingly to labor budgets. 
-* Performed general clerical tasks including scheduling meetings with employees, creating spreadsheets, documents, and mailing.
+-Liaison between Area Management and Team Leaders.
+-Responsible for area operations including meal service, cash handling, and billing.
+-Enforced park operating policies, procedures, and regulations.
+-Responsible for inventory count and ordering supplies off AS400 computer system. 
+-Accountable for scheduling guest service associates and team leaders accordingly to labor budgets. 
+-Performed general clerical tasks including scheduling meetings with employees, creating spreadsheets, documents, and mailing.  
+
+Education
+---------  
+2016-Present (expected):    
+**BS, Computer Science**; California State University, Fullerton 
 
 Technical Experience
 --------------------
