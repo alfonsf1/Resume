@@ -10,22 +10,11 @@ Experience
 ----------
 **University of California, Irvine Medical Center:** 2013-Present  
 **Principal Admitting Worker**  
--Performed reception functions to ensure smooth office operations, including answering phones and answering any questions that patients have in a high-volume clinic.  
--Helped colleagues troubleshoot computer issues as an EPIC Super User.  
--Provided excellent customer service to patients in order to make them feel welcomed.  
--Scheduled, rescheduled, cancelled, and/or confirmed patient appointments in a timely manner using the Quest and EPIC applications.  
--Accepted and processed payments according to established guidelines.  
--Familiar with PPO, HMO, Workers Comp, Military, and other Government insurances.  
--Knowledge of referrals, submitting authorizations, and communicating with adjusters.  
+-Worked in the outpatient department of Orthopedics as a Principle Admitting Worker with the responsibilities of an authorization coordinator. Responsibilities included obtaining authorizations using the EPIC CRM for all insurance types in a timely manner, alongside checking patients in for a high-volume clinic.    
 
 **Knott's Berry Farm:** 2009-2013    
 **Park Foods Supervisor**  
--Liaison between Area Management and Team Leaders.  
--Responsible for area operations including meal service, cash handling, and billing.  
--Enforced park operating policies, procedures, and regulations.  
--Responsible for inventory count and ordering supplies off AS400 computer system. 
--Accountable for scheduling guest service associates and team leaders accordingly to labor budgets. 
--Performed general clerical tasks including scheduling meetings with employees, creating spreadsheets, documents, and mailing.  
+-Responsible for supervising twenty employees in a park food restaurant. Generated schedules, payroll, and ordered products to ensure smooth operation of the facility. 
 
 Education
 ---------  
