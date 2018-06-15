@@ -3,7 +3,7 @@
 
  
 258 S. Archer St. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Figueroa.a@csu.fullerton.edu  
-Anaheim CA 92804 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [GitHub Account](https://github.com/alfonsf1)
+Anaheim CA 92804 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://github.com/alfonsf1  
 United States &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 714-300-5778   
 
 Education
