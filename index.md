@@ -34,6 +34,6 @@ Park Foods Supervisor:
   
 References  
 --------------------
-* Rall, William (Practice Manager) UCI Medical Center 909-717-0885  
-* Ojeda, Yesenia (Supervisor) UCI Medical Center 424-204-3118  
-* Inzunza, Rosendo (Area Manager) Knott's Berry Farm 714-342-7492  
+* Rall, William (Practice Manager) UCI Medical Center [Upon Request]  
+* Ojeda, Yesenia (Supervisor) UCI Medical Center [Upon Request]   
+* Inzunza, Rosendo (Area Manager) Knott's Berry Farm [Upon Request]   
