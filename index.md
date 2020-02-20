@@ -1,39 +1,33 @@
- Alfonso Figueroa
-============
+## Portfolio
 
- 
-258 S. Archer St. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Figueroa.a@csu.fullerton.edu  
-Anaheim CA 92804 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://github.com/alfonsf1  
-United States &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 714-300-5778   
+---
 
-Education
----------  
-2016-Present (expected):    
-**BS, Computer Science**; California State University, Fullerton 
+### Category Name 1 
 
-Technical Experience
---------------------
-Programming Languages: **C++:**  
-* Object Oriented Programming
-* Data Structures  
-	  * Array/Vector [Github Repository](https://github.com/alfonsf1/gradeListRoseter-Array)  
-	  * Linked List [Github Repository](https://github.com/alfonsf1/packageTracking-Linked-List)  
-	  * Graphs (DFS) [Github Repository](https://github.com/alfonsf1/gameCollection-graphDFS)  
-	  * Maps/BST [Github Repository](https://github.com/alfonsf1/universalProductCode-mapBST)  
-* Basic knowledge of **C**, **Visual Basic**, **Java**  
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Experience
-----------
-**University of California, Irvine Medical Center:** **2013-Present**  
-Principal Admitting Worker:   
-* Worked in the outpatient department of Orthopedics as a Principle Admitting Worker with the responsibilities of an authorization coordinator. Responsibilities included obtaining authorizations using the EPIC CRM for all insurance types in a timely manner, alongside checking patients in for a high-volume clinic.    
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-**Knott's Berry Farm:** **2009-2013**  
-Park Foods Supervisor:  
-* Responsible for supervising twenty employees in a park food restaurant. Generated schedules, payroll, and ordered products to ensure smooth operation of the facility. 
-  
-References  
---------------------
-* Rall, William (Practice Manager) UCI Medical Center [Upon Request]  
-* Ojeda, Yesenia (Supervisor) UCI Medical Center [Upon Request]   
-* Inzunza, Rosendo (Area Manager) Knott's Berry Farm [Upon Request]   
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Category Name 2
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
+
+
+
+---
