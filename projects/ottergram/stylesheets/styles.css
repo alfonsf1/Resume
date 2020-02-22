@@ -44,6 +44,8 @@ button{
     width: 7%;
     height: 5%;
     margin: auto;
+    background-color: #f1f1f1;
+    color: red;
   }
 
 .main-header {
