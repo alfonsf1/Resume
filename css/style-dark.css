@@ -172,6 +172,19 @@ blockquote span img {
 			transition: all .3s ease-in-out;
 }
 
+.center-button {
+	position: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.center-resume {
+	position: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 85%;
+}
+
 .btn-st:hover:before {
 	-webkit-border-radius: unset;
 			border-radius: unset;
